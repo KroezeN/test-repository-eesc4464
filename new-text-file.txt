@@ -4,6 +4,3 @@ Nathan Kroeze, 1/18/2022
 ----------
 New changes for part 4, 7:00pm
 
-This is a COLLISION be warned 
-
-Hope this works
